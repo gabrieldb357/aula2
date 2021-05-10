@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gabrieldb357/git-teste.git"
+    "url": "git+https://github.com/gabrieldb357/aula2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gabrieldb357/git-teste/issues"
+    "url": "https://github.com/gabrieldb357/aula2/issues"
   },
-  "homepage": "https://github.com/gabrieldb357/git-teste#readme",
+  "homepage": "https://github.com/gabrieldb357/aula2#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
   }
